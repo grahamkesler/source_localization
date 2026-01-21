@@ -18,3 +18,10 @@ This folder contains simulation notebooks exploring source localization on infec
 - Nodes labeled post-generation for simulation
 - Examines how shape-uniform sampling affects results
 
+### 3. Tree Generation Distribution Comparison  
+`prufer_unlabeled_comparison.ipynb`  
+
+- Compares uniformly labeled (Prufer) and unlabeled random tree generators  
+- Demonstrates differences in induced distributions over tree isomorphism classes  
+- Quantifies divergence using structural statistics and Jensen–Shannon divergence  
+
