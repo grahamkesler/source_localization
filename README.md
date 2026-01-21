@@ -83,6 +83,8 @@ Clone the repository and open the notebooks locally, or upload them to Google Co
 git clone https://github.com/your-username/your-repo-name.git
 ```
 
+Developed using Python 3.10+.
+
 ---
 
 ## Author
