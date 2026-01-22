@@ -50,7 +50,7 @@ Using only observer infection times and the tree structure, localization algorit
 - `notebooks/`  
   Jupyter notebooks containing simulations, analysis, and visualizations.
 
-- `src/` *(optional)*  
+- `src/`
   Helper functions for tree generation, observer selection, and reduction algorithms.
 
 ---
