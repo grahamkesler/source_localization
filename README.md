@@ -53,6 +53,10 @@ Using only observer infection times and the tree structure, localization algorit
 - `src/`
   Helper functions for tree generation, observer selection, and reduction algorithms.
 
+- `images/`
+  graphics used in notebooks.
+
+
 ---
 
 ## Tools & Libraries
