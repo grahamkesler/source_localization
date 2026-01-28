@@ -23,5 +23,13 @@ This folder contains simulation notebooks exploring source localization on infec
 
 - Compares uniformly labeled (Prufer) and unlabeled random tree generators  
 - Demonstrates differences in induced distributions over tree isomorphism classes  
-- Quantifies divergence using structural statistics and Jensen–Shannon divergence  
+- Quantifies divergence using structural statistics and Jensen–Shannon divergence
+
+### 4. Infection Time Distribution on Triangle Network 
+`triangle_infection.ipynb`  
+
+- Simulates infection spreading on a simple triangle network
+- Enumerates all possible infection trees given source and observer placements
+- Compares empirical distributions of infection times across tree structures
+ 
 
