@@ -1,4 +1,4 @@
-# source_localization on Infection Trees
+# Source Localization on Infection Trees
 
 This repository explores the problem of source localization on tree-structured networks using simulation and algorithmic reduction.The work examines both how infection sources can be inferred from partial observations and how the strategic placement of observer nodes affects the quality of that inference.
 
